@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zahinmunshi
-- 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning python, PHP, IOT, DSA.
+- 👀 I’m interested in QA, DB, programming languages.
+- 🌱 I’m currently learning python, PHP, IOT, DSA, ML, AI, BDA.
 - 📫 How to reach me - zmunshi786.zm@gmail.com
 
 <!---
